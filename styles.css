@@ -140,10 +140,9 @@ i:hover{
   text-align: center;
 }
 
-@media(max-width:900px){
+@media(max-width:1100px){
   .title-image{
     position:static;
-
 padding-top: 30px;
     width: 60%;
     height:500px;
